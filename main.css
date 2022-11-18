@@ -1,0 +1,31 @@
+  h1 {
+  text-align: center;
+}
+  form {
+    text-align: center;
+  }
+    h4 {
+    text-align: center;
+  }
+   address {
+    text-align: center;
+  }
+  /* unvisited link */
+a:link {
+  color: Hotpink;
+}
+
+/* visited link */
+a:visited {
+  color: Green;
+}
+
+/* mouse over link */
+a:hover {
+  color: Purple;
+}
+
+/* selected link */
+a:active {
+  color: Pink;
+}
